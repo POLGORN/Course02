@@ -1,0 +1,10 @@
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3.zp\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3.zp\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3.zp\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3.zp\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Lina\OneDrive\Рабочий стол\ConsoleApp3.zp\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
