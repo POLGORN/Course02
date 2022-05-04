@@ -9,7 +9,3 @@ if alpha == 'Г':
     print('Результат:', float(beta)*180/math.pi, 'градусов')
 else:
     print('Результат:', float(beta)*math.pi/180, 'радиан')
-
-
-
-
