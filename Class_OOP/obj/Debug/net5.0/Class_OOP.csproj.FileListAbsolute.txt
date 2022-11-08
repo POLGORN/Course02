@@ -1,0 +1,48 @@
+/home/apothecary/Alpha/C# code/Class_OOP/bin/Debug/net5.0/Class_OOP
+/home/apothecary/Alpha/C# code/Class_OOP/bin/Debug/net5.0/Class_OOP.deps.json
+/home/apothecary/Alpha/C# code/Class_OOP/bin/Debug/net5.0/Class_OOP.runtimeconfig.json
+/home/apothecary/Alpha/C# code/Class_OOP/bin/Debug/net5.0/Class_OOP.runtimeconfig.dev.json
+/home/apothecary/Alpha/C# code/Class_OOP/bin/Debug/net5.0/Class_OOP.dll
+/home/apothecary/Alpha/C# code/Class_OOP/bin/Debug/net5.0/ref/Class_OOP.dll
+/home/apothecary/Alpha/C# code/Class_OOP/bin/Debug/net5.0/Class_OOP.pdb
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.csproj.AssemblyReference.cache
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.AssemblyInfoInputs.cache
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.AssemblyInfo.cs
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.csproj.CoreCompileInputs.cache
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.dll
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/ref/Class_OOP.dll
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.pdb
+/home/apothecary/Alpha/C# code/Class_OOP/obj/Debug/net5.0/Class_OOP.genruntimeconfig.cache
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.csproj.AssemblyReference.cache
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.AssemblyInfoInputs.cache
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.AssemblyInfo.cs
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.csproj.CoreCompileInputs.cache
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.dll
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/ref/Class_OOP.dll
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.pdb
+/home/apothecary/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP
+/home/apothecary/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.deps.json
+/home/apothecary/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.runtimeconfig.json
+/home/apothecary/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.runtimeconfig.dev.json
+/home/apothecary/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.dll
+/home/apothecary/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/ref/Class_OOP.dll
+/home/apothecary/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.pdb
+/home/apothecary/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.genruntimeconfig.cache
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.deps.json
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.runtimeconfig.json
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.runtimeconfig.dev.json
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.dll
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/ref/Class_OOP.dll
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/bin/Debug/net5.0/Class_OOP.pdb
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.csproj.AssemblyReference.cache
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.AssemblyInfoInputs.cache
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.AssemblyInfo.cs
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.csproj.CoreCompileInputs.cache
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.dll
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/ref/Class_OOP.dll
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.pdb
+/home/apothecary/Рабочий стол/Alpha/C#_code/Class_OOP/obj/Debug/net5.0/Class_OOP.genruntimeconfig.cache
